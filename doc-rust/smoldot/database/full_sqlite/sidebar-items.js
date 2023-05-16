@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AccessError","ConfigTy","CorruptedError","DatabaseOpen","FinalizedAccessError","InsertError","SetFinalizedError"],"fn":["open"],"struct":["Config","DatabaseEmpty","InternalError","SqliteFullDatabase"]};

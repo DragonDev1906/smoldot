@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["aura","babe","header_body","header_only","inherents"]};

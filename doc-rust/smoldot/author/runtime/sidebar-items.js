@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BlockBuild","ConfigPreRuntime","DispatchError","Error","InvalidTransaction","TransactionValidityError","UnknownTransaction"],"fn":["build_block"],"struct":["ApplyExtrinsic","Config","InherentExtrinsics","NextKey","PrefixKeys","StorageGet","Success"]};

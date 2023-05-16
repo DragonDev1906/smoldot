@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["PROTOCOL_NAME"],"enum":["HandshakeError","NoiseHandshake"],"struct":["CipherError","Config","HandshakeInProgress","Noise","NoiseKey","PayloadDecodeError","UnsignedNoiseKey"]};

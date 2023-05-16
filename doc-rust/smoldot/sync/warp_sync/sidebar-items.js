@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DesiredRequest","Error","ProcessOne","RequestDetail","Status","WarpSync","WarpSyncInitError"],"fn":["start_warp_sync"],"struct":["BuildChainInformation","BuildRuntime","Config","InProgressWarpSync","RequestId","SourceId","Success","VerifyWarpSyncFragment"]};

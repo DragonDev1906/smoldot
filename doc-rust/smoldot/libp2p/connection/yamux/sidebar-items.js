@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_PINGS","NEW_SUBSTREAMS_FRAME_SIZE","PROTOCOL_NAME"],"enum":["CloseError","DeadSubstreamTy","Error","GoAwayErrorCode","IncomingDataDetail","OpenSubstreamError","PendingSubstreamError","ResetError","SendGoAwayError","WriteError"],"struct":["Config","IncomingDataOutcome","SubstreamId","Yamux"]};

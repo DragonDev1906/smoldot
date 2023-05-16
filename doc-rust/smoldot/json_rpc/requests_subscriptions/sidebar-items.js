@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AddClientError","ClientOrRequestIdRef","StartSubscriptionError"],"mod":["executor"],"struct":["ClientId","Config","ConfirmationSend","MessagesReceiver","RequestId","RequestsSubscriptions","SubscriptionStart","TryQueueClientRequestError"]};
